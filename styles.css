@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Coda+Caption:wght@800&family=Roboto+Mono:wght@100&display=swap');
+h1{
+    font-family: 'Anton', sans-serif;
+    color:red
+    
+}
+ 
+    body{
+
+     background-color: rgba(3, 226, 207, 0.986);
+    }
+
+    h2{
+     font-family: 'Anton', sans-serif;
+     color:blueviolet
+    
+     }
+
+     h3{
+        font-family: 'Anton', sans-serif;
+        color:rgb(8, 138, 8)
+     }
+
+     h4{
+
+        font-family: 'Anton', sans-serif;
+        color:rgb(8, 138, 8)
+     }
+   
+    footer{
+        font-family: 'Coda Caption', sans-serif;
+        color:blue
+    }
+
